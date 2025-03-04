@@ -1,2 +1,2 @@
-# TareaUML
-Tarea UML
+# Tarea
+Tarea
